@@ -2,6 +2,11 @@
 
 Frontend assessment project built with Vue 3, Vite, Vue Router, Tailwind CSS, and TheMealDB API.
 
+## Live Demo
+
+- Vercel: `ADD_YOUR_VERCEL_LINK_HERE`
+- GitHub Repository: `https://github.com/Yudisss1412/cmlabs-frontend-fulltime-test`
+
 ## Features
 
 - Ingredients page with frontend search by ingredient name
@@ -10,6 +15,7 @@ Frontend assessment project built with Vue 3, Vite, Vue Router, Tailwind CSS, an
 - Responsive layout optimized for desktop, tablet, and mobile
 - Reusable atomic-style components for scalable and maintainable UI
 - Load More and Search flow to reduce long scrolling on large lists
+- Dark mode toggle with animated theme transition
 
 ## Tech Stack
 
