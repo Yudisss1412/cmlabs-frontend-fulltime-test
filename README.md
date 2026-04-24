@@ -4,7 +4,7 @@ Frontend assessment project built with Vue 3, Vite, Vue Router, Tailwind CSS, an
 
 ## Live Demo
 
-- Vercel: `ADD_YOUR_VERCEL_LINK_HERE`
+- Vercel: `https://cmlabs-frontend-fulltime-test-xi.vercel.app/`
 - GitHub Repository: `https://github.com/Yudisss1412/cmlabs-frontend-fulltime-test`
 
 ## Features
